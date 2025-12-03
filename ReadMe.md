@@ -4,10 +4,8 @@ Hi there! I’m **Atiyeh Gh. Moghaddam**, a passionate AI researcher and develop
 🎓 **Education**  
 - **M.Sc. in Artificial Intelligence and Robotics** at Amirkabir University (Tehran Polytechnic) 🏫 (Oct 2022 – Dec 2024)  
   - Thesis: *“Speed improvements on diffusion models”* 🚀  
-  - GPA: **3.88/4**  
 - **B.Sc. in Computer Engineering** at Sharif University of Technology 🏛️ (Oct 2016 – May 2021)  
   - Thesis: *“Sentiment Analysis on Persian comments of Digikala”* 📊  
-  - GPA: **3/4**  
 
 💼 **Work Experience**  
 - **AI Bootcamp Manager** at Quera (Mar 2024 – Present)  
